@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**0xpanicError/0xpanicError** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Yash Saraswat but you can call me panic!
+- I'm a sophomore at IIT Roorkee
+- I'm a developer at BlocSoc IITR
+- I'm interested in smart contract development and security
 
-Here are some ideas to get you started:
+A little more about me:
+- 🏎 I like to watch F1!
+- ⚽️ I'm a Real Madrid fan (hasta el final!)
+- 🎮 I love to play FIFA and Uncharted
+- 🎶 I like to listen to pop and low-fi
+- 🎹 I also play the piano!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach out to me!
+- 🕊️ Twitter : [0xpanicError](https://twitter.com/0xpanicError)
+- 📬 Email : theyashsaraswat@gmail.com
+
+
+
