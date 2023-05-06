@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Yash Saraswat but you can call me panic!
-- I'm a sophomore at IIT Roorkee
-- I'm a developer at BlocSoc IITR
-- I'm interested in smart contract development and security
+My name is Yash Saraswat but you can call me panic! Im a student at IIT Roorkee
+- Joint-Secretary at BlocSoc IITR
+- MIT Bitcoin Hackathon winner (CKB track)
+- Inter-IIT Gold Medalist (Consensys PS)
 
 A little more about me:
 - 🏎 I love watching F1!
