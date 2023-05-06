@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My name is Yash Saraswat but you can call me panic! Im a student at IIT Roorkee
-- Joint-Secretary at BlocSoc IITR
-- MIT Bitcoin Hackathon winner (CKB track)
-- Inter-IIT Gold Medalist (Consensys PS)
+- Joint-Secretary at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
+- MIT Bitcoin Hackathon winner ([CKB track](https://devpost.com/software/ckbsafe))
+- Inter-IIT Gold Medalist ([Consensys PS](https://github.com/Bisht13/Inter-IIT-2k23))
 
 A little more about me:
 - 🏎 I love watching F1!
