@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yash Saraswat but you can call me panic! Im a student at IIT Roorkee
+My name is Yash Saraswat and I am a student at IIT Roorkee.
 - Joint-Secretary at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 - Ex Blockchain intern at [PUSH Protocol](https://push.org/)
 - ETHIndia23 Finalist ([FlockChain](https://devfolio.co/projects/flockchain-88eb))
