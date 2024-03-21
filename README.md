@@ -3,7 +3,7 @@
 My name is Yash Saraswat and I am a student at IIT Roorkee. I like math and cryptography. 
 
 Currently:
-- Research at [EigenLayer](https://www.eigenlayer.xyz/)
+- Protocol Research at [EigenLayer](https://www.eigenlayer.xyz/)
 - ZK security Fellow at [yAcademy](https://yacademy.dev/about/)
 - Joint-Secretary at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
@@ -17,7 +17,7 @@ Past Expereince and Projects:
 
 Reach out to me!
 - 🕊️ Twitter : [0xpanicError](https://twitter.com/0xpanicError)
-- 📬 Email : theyashsaraswat@gmail.com
+- 📬 Email : yash.saraswat@eigenlabs.org
 
 
 
