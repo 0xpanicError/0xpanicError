@@ -5,7 +5,7 @@ My name is Yash Saraswat and I am a student at IIT Roorkee. I like math and cryp
 Currently:
 - Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
 - ZK security Fellow at [yAcademy](https://yacademy.dev/about/)
-- Joint-Secretary at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
+- Secretary at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
 Projects I'm working on:
 - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
