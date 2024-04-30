@@ -15,6 +15,8 @@ Past Expereince and Projects:
 - ETHIndia23 Finalist ([FLockChain](https://devfolio.co/projects/flockchain-88eb))
 - Inter-IIT Gold Medalist ([Consensys PS](https://github.com/Bisht13/Inter-IIT-2k23))
 
+Substack: [0xpanicError](https://substack.com/@0xpanicerror)
+
 Reach out to me!
 - 🕊️ Twitter : [0xpanicError](https://twitter.com/0xpanicError)
 - 📬 Email : theyashsaraswat@gmail.com
