@@ -3,13 +3,14 @@
 My name is Yash Saraswat and I am a student at IIT Roorkee. I like math and cryptography. 
 
 Currently:
-- Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
 - President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
 Projects I'm working on:
+- [Selene](https://github.com/BlocSoc-iitr/selene)
 - [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
 
 Past Expereince and Projects:
+- Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
 - ZK security Fellow at [yAcademy](https://yacademy.dev/about/)
 - Ex Blockchain Intern at [PUSH Protocol](https://push.org/)
 - ETHIndia23 Finalist ([FLockChain](https://devfolio.co/projects/flockchain-88eb))
