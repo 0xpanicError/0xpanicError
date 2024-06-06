@@ -3,6 +3,8 @@
 My name is Yash Saraswat and I am a student at IIT Roorkee. I like math and cryptography. 
 
 Currently:
+- Developer at [Othentic Labs](https://www.othentic.xyz/)
+- Ethereum Protocol Fellow ([Cohort 5](https://blog.ethereum.org/2024/05/13/epf-5-announcement))
 - President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
 Projects I'm working on:
