@@ -6,10 +6,6 @@ Currently:
 - Developer at [Othentic Labs](https://www.othentic.xyz/)
 - President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
-Projects I'm working on:
-- [Selene](https://github.com/BlocSoc-iitr/selene)
-- [HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders)
-
 Past Expereince and Projects:
 - Protocol Fellow at [Ethereum](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
 - Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
