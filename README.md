@@ -4,11 +4,11 @@ My name is Yash Saraswat and I am a student at IIT Roorkee. I like math and cryp
 
 Currently:
 - Developer at [Othentic Labs](https://www.othentic.xyz/)
-- President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 
 Past Expereince and Projects:
 - Protocol Fellow at [Ethereum](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
 - Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
+- President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 - ZK security Fellow at [yAcademy](https://zblock2.xyz/)
 - Ex Blockchain Intern at [PUSH Protocol](https://push.org/)
 - ETHIndia23 Finalist ([FLockChain](https://devfolio.co/projects/flockchain-88eb))
