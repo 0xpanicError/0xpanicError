@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yash Saraswat and I am a student at IIT Roorkee. I like math and cryptography. 
+My name is Yash Saraswat. I like math, cryptography and distributed systems. 
 
 Currently:
 - Developer at [Othentic Labs](https://www.othentic.xyz/)
