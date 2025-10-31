@@ -3,6 +3,7 @@
 My name is Yash Saraswat. I like math, cryptography and distributed systems. 
 
 Currently:
+- Senior Protocol Engineer at [Aleph Finance](https://aleph.finance/)
 - Developer at [Othentic Labs](https://www.othentic.xyz/)
 
 Past Expereince and Projects:
