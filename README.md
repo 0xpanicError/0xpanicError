@@ -3,10 +3,11 @@
 My name is Yash Saraswat. I like math, cryptography and distributed systems. 
 
 Currently:
-- Senior Protocol Engineer at [Aleph Finance](https://aleph.finance/)
-- Developer at [Othentic Labs](https://www.othentic.xyz/)
+Exploring consensus and compilers.
 
 Past Expereince and Projects:
+- Senior Protocol Engineer at [Aleph Finance](https://aleph.finance/)
+- Developer at [Othentic Labs](https://www.othentic.xyz/)
 - Protocol Fellow at [Ethereum](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
 - Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
 - President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
