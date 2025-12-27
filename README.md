@@ -5,14 +5,20 @@ My name is Yash Saraswat. I like math, cryptography and distributed systems.
 Currently:
 Exploring consensus and compilers.
 
-Past Expereince and Projects:
+Past Expereince:
 - Senior Protocol Engineer at [Aleph Finance](https://aleph.finance/)
 - Developer at [Othentic Labs](https://www.othentic.xyz/)
 - Protocol Fellow at [Ethereum](https://blog.ethereum.org/2024/05/13/epf-5-announcement)
 - Protocol Research Intern at [EigenLayer](https://www.eigenlayer.xyz/)
-- President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 - ZK security Fellow at [yAcademy](https://zblock2.xyz/)
+- President at [BlocSoc IITR](https://blocsoc.iitr.ac.in/)
 - Ex Blockchain Intern at [PUSH Protocol](https://push.org/)
+
+Publications:
+- [SoK: Speedy Secure Finality](https://arxiv.org/abs/2512.20715)
+
+Projects:
+- Huffathon Finalist ([HorseRiders](https://github.com/BlocSoc-iitr/HorseRiders))
 - ETHIndia23 Finalist ([FLockChain](https://devfolio.co/projects/flockchain-88eb))
 - Inter-IIT Gold Medalist ([Consensys PS](https://github.com/Bisht13/Inter-IIT-2k23))
 
