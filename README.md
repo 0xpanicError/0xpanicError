@@ -25,7 +25,6 @@ Projects:
 
 Education:
 - B.Tech from [IIT Rookee](https://www.iitr.ac.in/)
-- JEE Advanced Rank: 6742 (99.3%tile)
 
 Substack: [0xpanicError](https://substack.com/@0xpanicerror)
 
