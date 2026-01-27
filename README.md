@@ -15,7 +15,7 @@ Past Expereince:
 - Blockchain Intern at [PUSH Protocol](https://push.org/)
 
 Publications:
-- [ERC 8113: Series Accounting for Incentivized Vaults](https://github.com/ethereum/ERCs/pull/1429)
+- [ERC 8113: Series Accounting for Incentivized Vaults](https://eips.ethereum.org/EIPS/eip-8113)
 - [SoK: Speedy Secure Finality](https://arxiv.org/abs/2512.20715)
 
 Projects:
