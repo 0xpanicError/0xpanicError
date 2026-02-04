@@ -23,9 +23,6 @@ Projects:
 - ETHIndia23 Finalist ([FLockChain](https://devfolio.co/projects/flockchain-88eb))
 - Inter-IIT Gold Medalist ([Consensys PS](https://github.com/Bisht13/Inter-IIT-2k23))
 
-Education:
-- B.Tech from [IIT Rookee](https://www.iitr.ac.in/)
-
 Substack: [0xpanicError](https://substack.com/@0xpanicerror)
 
 Reach out to me!
